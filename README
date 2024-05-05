@@ -1,0 +1,9 @@
+L'objectif de ce TP est de créer un modèle de prédiction du diabète.
+
+Commençons par charger le dataset sur le diabète des Indiens Pima à l'aide de la fonction read_csv de pandas.
+
+implémentation de ce TP avec les algorithmes suivants : logistic regression, KNN, Naive Bayes, arbre de décision, random forest et SVM.
+
+à la fin de mon Jupyter notebook l'algorithme j'ai a donné les meilleures performances et pourquoi vous pensez ainsi.
+
+Dataset à partir du lien suivant:  https://www.kaggle.com/uciml/pima-indians-diabetes-database
